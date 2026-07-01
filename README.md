@@ -1,5 +1,15 @@
 <img width="1347" height="757" alt="image" src="https://github.com/user-attachments/assets/049c06f4-a72f-4a8d-a2d7-13b6830fab16" />
 
+EAST REGION
+<img width="1322" height="750" alt="image" src="https://github.com/user-attachments/assets/565795bf-526d-4a3f-acad-bf053fda19c7" />
+
+SOUTH REGION
+<img width="1337" height="735" alt="image" src="https://github.com/user-attachments/assets/b3e54697-fa46-4ee2-ba94-12e7205f364f" />
+
+WEST REGION
+<img width="1313" height="740" alt="image" src="https://github.com/user-attachments/assets/31d7d796-6509-4547-96c0-7759cb480588" />
+
+
 
 
 Metric	Value/Key Insights
